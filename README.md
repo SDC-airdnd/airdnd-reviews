@@ -1,6 +1,6 @@
 # Airbnb-Reviews
 
-Full-stack review module written in React
+Full-stack room booking application review module
 
 ## How to run this projects
 
